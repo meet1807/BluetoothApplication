@@ -1,0 +1,9 @@
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\bin\Debug\BluetoothApplication.exe.config
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\bin\Debug\BluetoothApplication.exe
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\bin\Debug\BluetoothApplication.pdb
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.csprojResolveAssemblyReference.cache
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.Form1.resources
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.Properties.Resources.resources
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.csproj.GenerateResource.Cache
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.exe
+M:\WorkSpaces\VisualStudio\BluetoothApplication\BluetoothApplication\obj\Debug\BluetoothApplication.pdb
