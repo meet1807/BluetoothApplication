@@ -2,6 +2,7 @@
 one can store the data (text) in the file from the bluetooth. 
 
 ## How to 
+-- Download / Clone this project and import it in a VisualStudio.
 1.Run the program 
 2.select Directory in which the folder will be created
 3.click start (in the app)
